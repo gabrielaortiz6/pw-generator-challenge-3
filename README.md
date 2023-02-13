@@ -42,15 +42,15 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/images/screenshot-web-app.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/images/screenshot-web-app.png)
 
-![Web application displaying prompt for user input on length of password.](./Assets/images/screenshot-prompt-pw-length.png)
+![Web application displaying prompt for user input on length of password.](./assets/images/screenshot-prompt-pw-length.png)
 
-![Web application displaying error message if user input does not meet the min and max length of password.](./Assets/images/screenshot-error-pw-length-minmax.png)
+![Web application displaying error message if user input does not meet the min and max length of password.](./assets/images/screenshot-error-pw-length-minmax.png)
 
-![Web application displaying confirm pop up.](./Assets/images/screenshot-confirm-pop-up.png)
+![Web application displaying confirm pop up.](./assets/images/screenshot-confirm-pop-up.png)
 
-![Web application displaying randomly generated password including user's criteria'.](./Assets/images/screenshot-pw-generated.png)
+![Web application displaying randomly generated password including user's criteria'.](./assets/images/screenshot-pw-generated.png)
 
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
